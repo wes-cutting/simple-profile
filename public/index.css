@@ -1,0 +1,15 @@
+body {
+    margin: 0% 20%;
+}
+
+.center{
+    text-align: center;
+}
+
+#about {
+    margin: 10px;
+}
+#batman {
+    float: left;
+    width: 16%;
+}
